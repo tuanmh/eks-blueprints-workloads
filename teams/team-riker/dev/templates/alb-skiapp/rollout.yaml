@@ -1,4 +1,3 @@
-cat << EOF > teams/team-riker/dev/templates/alb-skiapp/rollout.yaml
 apiVersion: argoproj.io/v1alpha1
 kind: Rollout
 metadata:
